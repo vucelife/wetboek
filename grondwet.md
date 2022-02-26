@@ -69,7 +69,7 @@ Indien deze grondwet niet wordt gevolgd door één of meerdere personen, zal er 
 >> is niet toegestaan.
 
 > **Artikel 2.1.2** Vehicle Deathmatch (VDM)
->> Het aanrijden en/of doden van spelers met een voertuig is niet toegestaan zonder een geldige reden in de rolaply.
+>> Het aanrijden en/of doden van spelers met een voertuig is niet toegestaan zonder een geldige reden in de rolaplay.
 
 > **Artikel 2.1.3** Onrealistisch rijgedrag
 >> Onrealistisch rijgedrag is niet toegestaan. Blijf dus op de wegen en rijd niet door na een crash.
@@ -130,7 +130,7 @@ Indien deze grondwet niet wordt gevolgd door één of meerdere personen, zal er 
 ## Artikel 2.4 - Opname
 
 > **Artikel 2.4.1** - Opnemen en streamen
->> Opnemen en streamen is toegestaan op de FiveM server. Hou hier al speler rekening mee.
+>> Opnemen en streamen is toegestaan op de FiveM server. Hou hier als speler rekening mee.
 >> Stream-snipen geldt als meta-gaming (artikel 2.1.9).
 
 ## Artikel 2.5 - Meldingsysteem
@@ -173,7 +173,7 @@ Indien deze grondwet niet wordt gevolgd door één of meerdere personen, zal er 
 >> Gijzel dus geen random spelers.
 
 > **Artikel 2.6.6** Diefstal van voertuigen
->> Het is niet toegestaan om bedrijfsvoertuigen te stelen (voertuigen van slager,textiel, ...).
+>> Het is niet toegestaan om bedrijfsvoertuigen te stelen (voertuigen van slager, textiel, ...).
 >> Overheidsvoertuigen mogen worden gestolen, met uitzondering van voertuigen van de ambulancediensten
 >> en de wegnwacht. Je mag ook geen spullen uit bedrijfsvoertuigen stelen.
 
