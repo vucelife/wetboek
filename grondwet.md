@@ -124,7 +124,7 @@ Indien deze grondwet niet wordt gevolgd door één of meerdere personen, zal er 
 >> Denk hierbij aan het gebruik van een passende emote / animatie.
 
 > **Artikel 2.3.4** Voicechanger
->> Het gebruik van een voicechanger is niet toegestaan.
+>> Het gebruik van een voicechanger is niet toegestaan mits dit mogelijk is in roleplay, bijvoorbeeld via een telefoon.
 >> Je mag natuurlijk wel zelf een stemmetje opzetten of met een accent praten.
 
 ## Artikel 2.4 - Opname
@@ -192,7 +192,7 @@ Indien deze grondwet niet wordt gevolgd door één of meerdere personen, zal er 
 >> Het uitlokken van hulpdiensten is niet toegestaan. Je mag ook niet de hulpdiensten achterna rijden, tenzij ze hierom vragen.
 
 > **Artikel 2.7.2** Materiaal
->> Het doorverkopen en delen van hulpdiensten meteriaals zoals wapens in ten strengste verboden.
+>> Het doorverkopen en delen van hulpdiensten meterialen zoals wapens in ten strengste verboden.
 
 > **Artikel 2.7.3** Veiligheidsgarantie
 >> Ambulancediensten en wegenwachters mogen niet worden aangevallen, beroofd, gegzijzeld, ... wanneer zij in dienst zijn.
@@ -214,6 +214,9 @@ Indien deze grondwet niet wordt gevolgd door één of meerdere personen, zal er 
 > **Artikel 2.7.10** Ziekenhuisopname
 >> Indien je behandeld wordt door een ambulancier, dien je naar deze persoon te luisteren.
 >> Hij/zij bepaald wanneer je het ziekenhuis mag verlaten en of je je roleplay voort kan zetten.
+
+> **Artikel 2.8.10** Corruptie
+>> Leidinggevenden van een overheidsinstantie mogen niet corrupt zijn.
 
 # Artikel 3 - Report systeem
 
