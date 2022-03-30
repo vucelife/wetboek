@@ -98,32 +98,33 @@ Deze sancties kunnen oplopen van bekeuringen tot celstraffen.
 **Artikel 4.4;** De grens van jouw woning (tuin) wordt meegedeeld bij het aankopen van de woning bij de makelaar.<br>
 **Artikel 4.5;** De eigenaar van een woning heeft recht om te vragen aan de makelaar waar zijn eigendom stopt.<br>
 **Artikel 4.6;** Een eigendom mag niet ingenomen worden zonder toestemming van de eigenaar.<br>
-**Artikel 4.7;** Een eigendom mag niet afgenomen worden zonder toestemming van een daarvoor beveogde dienst.<br>
+**Artikel 4.7;** Een eigendom mag niet afgenomen worden zonder toestemming van een daarvoor bevoegde dienst.<br>
 **Artikel 4.8;** Een eigendom mag niet doorzocht worden, zonder een daarbij geldige redenen en documentatie.<br>
 **Artilel 4.9;** Een bevoegde dienst heeft het recht om eigendommen in te nemen wanneer dit nodig is.<br>
 **Artikel 4.10;** Het vernielen van een ander zijn eigendom is verboden.<br>
 **Artikel 4.11;** U zich begeven op private eigendom (eigendom van iemand anders) zonder de toestemming van deze persoon is verboden. U mag wel het eigendom betreden om u te begeven naar de deur die toegang verleent naar de eigendom, om bijvoorbeeld de deurbel te gebruiken.<br>
+**Artikel 4.12;** Het heimelijk wegnemen van goederen of eigendommen van een ander persoon is bij wet verboden.<br>
 
 # Artikel 5 - Wetten betrekking tot openbare orde
 **Artikel 5.1;** Hinderlijk geluid voor de medemens en dier in het openbaar is verboden.<br>
 **Artikel 5.2;** Het onder invloed zijn van verdovende middelen, of alcohol is niet toegestaan in het openbaar.<br>
-**Artikel 5.3;** Het sluikstorten van allere spullen en producten is niet toegestaan in het openbaar.<br>
+**Artikel 5.3;** Het sluikstorten van allerlij spullen en producten is niet toegestaan in het openbaar.<br>
 **Artikel 5.4;** Het vernielen van gebouwen en andere infrastructuur is verboden.<br>
 **Artikel 5.5;** Het belagen, discrimineren, lastig vallen naar de medemens en dier is verboden.<br>
 **Artikel 5.6;** Het aangezicht van een persoon dient ten alle tijden zichtbaar te zijn op openbare plaatsen.<br>
 
 # Artikel 6 - Cyberwetgeving
-**Artikel 6.1;** Het inbreken in dergerlijke computers van anderen is verboden.<br>
+**Artikel 6.1;** Het inbreken in dergelijke computers van anderen is verboden.<br>
 **Artikel 6.2;** Het stelen van digitale data, zoals persoonsgegevens en allerlei informatie is verboden.<br>
 
 # Artikel 7 - Milieuwetten
-**Artikel 7.1;** Het jagen op wilde zoogdieren zonder daarbij geldige vergunning is niet toegestaan.<br>
+**Artikel 7.1;** Het jagen op wilde zoogdiere, vogels en reptielen zonder daarbij geldige vergunning is niet toegestaan.<br>
 **Artikel 7.2;** Visserij is toegestaan, zolang de vis geen gevoel van pijn vertoont.<br>
 **Artikel 7.3;** Het achterlaten van allerlei chemische producten in de natuur is niet toegestaan.<br>
 
-# Artikel 8 - Wetten betrekking tot handel van goederen
+# Artikel 8 - Wetten betrekking tot handel van goederen en arbeid
 **Artikel 7.1;** Het witwassen van geld is niet toegestaan.<br>
-**Artikel 7.2;** Het werken bij een persoon zonder de geldige voorafgaande documentatie valt onder zwart werk en is niet toegestaan.<br>
+**Artikel 7.2;** Het werken bij een persoon zonder de geldige voorafgaande documentatie valt onder zwartwerk en is niet toegestaan.<br>
 **Artikel 7.3;** Betalingen met zwart geld is niet toegestaan.<br>
 **Artikel 7.4;** Het bezit van zwartgeld is niet toegestaan.<br>
 **Artikel 7.5;** Een winkeleigenaar moet altijd een voorraad hebben van eten- en drinkwaren. Indien hij deze voorraad niet heeft heeft hij vier dagen de tijd om deze voorraad aan te vullen. Lukt dit niet, is de winkeleigenaar ingnomen door de overheid en zal deze te koop gezet worden.<br>
@@ -134,6 +135,7 @@ Deze sancties kunnen oplopen van bekeuringen tot celstraffen.
 **Artikel 9.2;** Wanneer er twee personen in overtreding zijn, zullen beide personen gesactioneerd worden.<br>
 **Artikel 9.3;** Artikel 9.2 en 9.1 kan worden aangevochten met een rechtzaak. Een rechter bepaald dan wie er moet opdraaien voor de gemaakte overtredingen.<br>
 **Artikel 9.4;** De persoon die een rechtzaak verliest dient de rechtskosten te betalen, plus eventuele andere bijhorende kosten die de recht toezegt. Dit kan gaan tot eventuele betaling van de schade van de tegenpartij.<br>
+**Artikel 9.5;** Wanneer er geen rechter in dienst is, bepaald de hoogste in aanwezige rang bij de politie de straffen.
 
 # Artikel 10 - Identificatiewetten
 **Artikel 10.1;** Iedere advocaat moet officieel geregistreerd en erkend zijn bij de regering. Elke persoon die zich voor doet als advocaat en die niet erkend is bij de overheid, is strafbaar aan artikel 10.7.<br>
@@ -152,37 +154,42 @@ Deze sancties kunnen oplopen van bekeuringen tot celstraffen.
 
 # Artikel 11 - Wetten betrekking tot specifiek gerichte personen, diensten, voertuigen en beroepen
 
-## Artikel 11.1 Wettelijke regelingen voor politionele diensten en pilotionele ambtenaren
-**Artikel 11.1.1** Een politioneel ambtenaar dient zich tijdens zijn dienst steeds kenbaar te maken doormiddel van een badge of door het dragen van het correcte uniform. Deze regel is niet van toepassing indien de veiligheid van de ambtenaar doormiddel van een bepaalde zaak niet in acht kan gesteld worden.<br>
-**Artikel 11.1.2** Een politioneel ambtenaar mag geweld naar een ander persoon gebruiken wanneer zijn eigen veiligheid in gevaar dreigt te zijn.<br>
-**Artikel 11.1.3** Een politioneel ambtenaar heeft het recht om de volgende wapens tijdens zijn dienst bij zich te hebben: Advanced Rifle, Pump Shotgun, Combat PDW, Sniper Rifle, Nightstick, Switchblade, Stun Gun, Combat Pistol, Tear Gas, BZ Gas. Enkel voor get gebruik van deze wapens is artikel 2.8 niet van toepassing.<br>
-**Artikel 11.1.4** Artikel 2.10, 2.11, 2.13 zijn niet van toepassing voor pilotionele diensten en ambtenaren bij het dragen ven hun wapens en uitrusting.<br>
-**Artikel 11.1.5** Een politioneel ambtenaar heeft het recht om iemand de foeilleren wanner hij of zij zich volgens de ambtenaar zich verdacht gedraagd.<br>
-**Artikel 11.1.6** Een persoon die is staandegehouden of gearresteerd is door een politioneel ambetnaar heeft het recht te weten waarvoor hij, zij is aangehouden.<br>
-**Artikel 11.1.7** Een politioneel ambtenaar moet bij een arrestatie de rechten van de garresteerde hardop voorlezen (de rechten kan u vinden in het document: rechten van de burger) in de taal van het land waarin de arrestatie zich voordoet tijdens het boeien of tijdens het insluiten van de persoon op het politie bureau.<br>
-**Artikel 11.1.8** Een politioneel ambtenaar moet voordat hij een verdacht individu foeilleert melden dat hij het individu gaat doorzoeken.<br>
-**Artikel 11.1.9** Een politioneel ambtenaar mag niet aan corruptie doen.<br>
-**Artikel 11.1.10** Voordat een politioneel ambtenaar een woning binnenvalt, dient voor de deur hun dienst hardop genoemd te worden.<br>
-**Artikel 11.1.11** Een politioneel ambtenaar moet toestemming hebben van een erkende rechter om een huis te mogen binnenvallen en te doorzoeken.<br>
-**Artikel 11.1.12** Een politioneel ambtenaar heeft het recht om een voertuig te doorzoeken die ontgrendeld is.<br>
-**Artikel 11.1.13** Een politioneel ambtenaar heeft het recht om een vergendeld voertuig te doorzoeken met toestemming van een rechter.<br>
-**Artikel 11.1.14** Een politioneel ambtenaar heeft het recht om eigendommen van een persoon in beslag te nemen, indien het strafrecht boek dit voorschrijft.<br>
-**Artikel 11.1.15** Een politioneel ambtenaar mag inbeslag genomen goederen niet voor zich houden.<br>
-**Artikel 11.1.16** Een politioneel ambtenaar mag zijn uitrusting (kleding, wapens, munitie, ...) niet bijhouden buiten zijn dienst.<br>
-**Artikel 11.1.17** Een politionele dienst heeft recht op alle artikels van artikel 11.9 Prioritar bevoegde voertuigen.<br>
-**Artikel 11.1.18** Een politioneel ambtenaar heeft ten allen tijden beroepsgeheim. Ook wanneer hij of zij niet meer werkzaam is bij een politionele dienst.<br>
-**Artikel 11.1.19** Een politioneel ambtenaar mag niet onder invoed zijn van alcohol of verdovende middelen tijdens zijn diensturen.<br>
-**Artikel 11.1.20** Een poltioneel ambtenaar moet altijd de instructies volgen die gegeven zijn tijdens de opleiding.<br>
+## Artikel 11.1 Wettelijke regelingen voor politionele diensten en politionele ambtenaren
+**Artikel 11.1.1;** Een politioneel ambtenaar dient zich tijdens zijn dienst steeds kenbaar te maken doormiddel van een badge of door het dragen van het correcte uniform. Deze regel is niet van toepassing indien de veiligheid van de ambtenaar doormiddel van een bepaalde zaak niet in acht kan gesteld worden.<br>
+**Artikel 11.1.2;** Een politioneel ambtenaar mag geweld naar een ander persoon gebruiken wanneer zijn eigen veiligheid in gevaar dreigt te zijn.<br>
+**Artikel 11.1.3;** Een politioneel ambtenaar heeft het recht om de volgende wapens tijdens zijn dienst bij zich te hebben: Advanced Rifle, Pump Shotgun, Combat PDW, Sniper Rifle, Nightstick, Switchblade, Stun Gun, Combat Pistol, Tear Gas, BZ Gas. Enkel voor get gebruik van deze wapens is artikel 2.8 niet van toepassing.<br>
+**Artikel 11.1.4;** Artikel 2.10, 2.11, 2.13 zijn niet van toepassing voor politionele diensten en ambtenaren bij het dragen ven hun wapens en uitrusting.<br>
+**Artikel 11.1.5;** Een politioneel ambtenaar heeft het recht om iemand de foeilleren wanner hij of zij zich volgens de ambtenaar zich verdacht gedraagd.<br>
+**Artikel 11.1.6;** Een persoon die is staandegehouden of gearresteerd is door een politioneel ambetnaar heeft het recht te weten waarvoor hij, zij is aangehouden.<br>
+**Artikel 11.1.7;** Een politioneel ambtenaar moet bij een arrestatie de rechten van de garresteerde hardop voorlezen (de rechten kan u vinden in het document: rechten van de burger) in de taal van het land waarin de arrestatie zich voordoet tijdens het boeien of tijdens het insluiten van de persoon op het politie bureau.<br>
+**Artikel 11.1.8;** Een politioneel ambtenaar moet voordat hij een verdacht individu foeilleert melden dat hij het individu gaat doorzoeken.<br>
+**Artikel 11.1.9;** Een politioneel ambtenaar mag niet aan corruptie doen.<br>
+**Artikel 11.1.10;** Voordat een politioneel ambtenaar een woning binnenvalt, dient voor de deur hun dienst hardop genoemd te worden.<br>
+**Artikel 11.1.11;** Een politioneel ambtenaar moet toestemming hebben van een erkende rechter om een huis te mogen binnenvallen en te doorzoeken.<br>
+**Artikel 11.1.12;** Een politioneel ambtenaar heeft het recht om een voertuig te doorzoeken die ontgrendeld is.<br>
+**Artikel 11.1.13;** Een politioneel ambtenaar heeft het recht om een vergendeld voertuig te doorzoeken met toestemming van een rechter.<br>
+**Artikel 11.1.14;** Een politioneel ambtenaar heeft het recht om eigendommen van een persoon in beslag te nemen, indien het strafrecht boek dit voorschrijft.<br>
+**Artikel 11.1.15;** Een politioneel ambtenaar mag inbeslag genomen goederen niet voor zich houden.<br>
+**Artikel 11.1.16;** Een politioneel ambtenaar mag zijn uitrusting (kleding, wapens, munitie, ...) niet bijhouden buiten zijn dienst.<br>
+**Artikel 11.1.17;** Een politionele dienst heeft recht op alle artikels van artikel 11.9 Prioritar bevoegde voertuigen.<br>
+**Artikel 11.1.18;** Een politioneel ambtenaar heeft ten allen tijden beroepsgeheim. Ook wanneer hij of zij niet meer werkzaam is bij een politionele dienst.<br>
+**Artikel 11.1.19;** Een politioneel ambtenaar mag niet onder invoed zijn van alcohol of verdovende middelen tijdens zijn diensturen.<br>
+**Artikel 11.1.20;** Een poltioneel ambtenaar moet altijd de instructies volgen die gegeven zijn tijdens de opleiding.<br>
 
 ## Artikel 11.2 Wettelijke regelingen voor de Nationale Organisatie voor Algemene Hulpverlening (NOAH) en de werknemers hiervan
-**Artikel 11.2.1** Een werknemer van NOAH dient zich tijdens zijn dienst steeds kenbaar te maken doormiddel van een badge of door het dragen van het correcte unfirom. Deze regel is niet van toepassing indien de veiligheid van de werknemer niet in acht kan genomen worden.
-**Artikel 11.2.2** Een werknemer van NOAH is hulplichting, hij / zij dient ten alle tijden hulp te kunnen bieden aan mensen die dit nodig achten.
-**Artikel 11.2.3** Een werknemer van NOAH mag niet doen aan corruptie.
-**Artikel 11.2.4** Een werknemer van NOAH dient de gegeven insturcties van de opleiding te volgen.
+**Artikel 11.2.1;** Een werknemer van NOAH dient zich tijdens zijn dienst steeds kenbaar te maken doormiddel van een badge of door het dragen van het correcte unfirom. Deze regel is niet van toepassing indien de veiligheid van de werknemer niet in acht kan genomen worden.<br>
+**Artikel 11.2.2;** Een werknemer van NOAH is hulplichting, hij / zij dient ten alle tijden hulp te kunnen bieden aan mensen die dit nodig achten.<br>
+**Artikel 11.2.3;** Een werknemer van NOAH mag niet doen aan corruptie.<br>
+**Artikel 11.2.4;** Een werknemer van NOAH dient de gegeven insturcties van de opleiding te volgen.<br>
+**Artikel 11.2.5;** Een werknemer van NOAH heeft ten allen tijde geheimhouding van de patiënt.
+**Artikel 11.2.6;** Een werknemer van NOAH heeft meldplicht aan de daarvoor bevoegd persoon wanneer het leven van de patïent in gevaar is en niet direct kan geholpen worden.
+**Artikel 11.2.7;**
+
 
 ## Artikel 11.3 Wettelijke regelingen voor advocaten
 
 ## Artikel 11.4 Wettelijke regelingen voor rechters
+onafhankelijk
 
 ## Artikel 11.5 Wettelijke regelingen voor politiekers
 *Deze categorie van het wetboek is momenteel nog niet van toepassing*
@@ -194,7 +201,7 @@ Deze sancties kunnen oplopen van bekeuringen tot celstraffen.
 
 ## Artikel 11.8 Wettelijke regelingen voor werknemers van het officiële taxi bedrijf
 
-## Artikel 11.9 Wettelijke regelingen voor werknemers van de landelijke meldkaer (QUEBEC)
+## Artikel 11.9 Wettelijke regelingen voor werknemers van de landelijke meldkamer
 *Deze categorie van het wetboek is momenteel nog niet van toepassing* 
 
 ## Artikel 11.9 Prioritair bevoegde voertuigen
