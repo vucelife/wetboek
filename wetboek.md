@@ -61,7 +61,7 @@ Deze sancties kunnen oplopen van bekeuringen tot celstraffen.
 **Artikel 1.8.2;** Stilstaan is, wanneer je voertuig stilstaat op de rijweg en waar de bestuurder zich nog in het voertuig aan het stuur bevindt.<br>
 **Artikel 1.8.3;** Parkeren is, wanneer je je voertuig aan de kant hebt gezet en de bestuurder zich niet meer in het voertuig aan het stuur bevindt.<br>
 **Artikel 1.8.4;** Parkeren mag niet langs een rode of gele lijn die op de stoeprand wordt aangeduid.<br>
-**Artikel 1.8.5;** Parkeren mag enkel op de daar voorziene plaatsen.<br>
+**Artikel 1.8.5;** Parkeren mag enkel op de daarvoor voorziene plaatsen.<br>
 **Artikel 1.8.6;** Parkeren dient steeds veilig te gebeuren.<br>
 **Artikel 1.8.7;** Stilstaan dient steeds veilig te gebeuren.<br>
 **Artikel 1.8.8;** Stilstaan mag niet langs een rode lijn die op de stoeprand wordt aangeduid.<br>
@@ -69,7 +69,7 @@ Deze sancties kunnen oplopen van bekeuringen tot celstraffen.
 **Artikel 1.8.10;** Parkeren mag niet voor een in- uitweg van een publiek of privaat domein.<br>
 
 # Artikel 2 - Wapen en munitie wet
-**Artikel 2.1;** Alle wapens zijn onderverdeeld in drie categorieën zijnde: Categorie 0: Explosieven en gassen, Categorie 1: Zware vuuurwapens, Categorie 2: Lichte vuurwapens, Categorie 3: Slag en steek wapens.<br>
+**Artikel 2.1;** Alle wapens zijn onderverdeeld in vier categorieën zijnde: Categorie 0: Explosieven en gassen, Categorie 1: Zware vuuurwapens, Categorie 2: Lichte vuurwapens, Categorie 3: Slag en steek wapens.<br>
 **Artikel 2.2;** Wapens die vallen onder categorie 0: Sticky Bomb, Proximity Mine, Pipe Bomb, Molotov, Firework Launcher, Grenade Launcher, Homing Launcher, Railgun, RPG, Widowmaker, Unholy Hellbringer, Up-n-Atomizer, Grenade, Tear Gas, BZ Gas.<br>
 **Artikel 2.3;** Wapens die vallen onder categorie 1: Advanced Rifle, Assult Rifle, Bullpup Rifle, Carbine Rifle, Compact Rifle, Special Carbine, Assult Rifle, Minigun, Combat MG, Gusenberg Sweeper, MG, AP Pistol, Machine Pistol, Assault, Shotgun, Bullpup Shotgun, Double Barrel Shotgun, Heavy Shotgun, Musket, Pump Shotgun, Sawed-Off Shotgun, Sweeper Shotgun, Heavy Sniper, Marksam Rifle, Sniper Rifle, Assault SMG, Combat PDW, Micro SMG, Mini SMG, SMG.<br>
 **Artikel 2.4;** Wapens die vallen onder categorie 2: Stun Gun, Combat Pistol, Double-Action Revolver, Heavy Pistol, Heavy Revolver, Machine Pistol, Pistol .50, Pistol, SNS Pistol, Vintage Pistol.<br>
@@ -152,27 +152,27 @@ Deze sancties kunnen oplopen van bekeuringen tot celstraffen.
 
 # Artikel 11 - Wetten betrekking tot specifiek gerichte personen, diensten, voertuigen en beroepen
 
-## Artikel 11.1 Wettelijke regelingen voor politionele diensten en poltionele ambtenaren
-**Artikel 11.1.1** Een politioneel ambtenaar dient zich tijdens zijn dienst steeds kenbaar te maken doormiddel van een badge of door het dragen van het correcte uniform. Deze regel is niet van toepassing indien de veiligheid van de ambtenaar doormiddel van een bepaalde zaak niet in acht kan gesteld worden.
-**Artikel 11.1.2** Een politioneel ambtenaar mag geweld naar een ander persoon gebruiken wanneer zijn eigen veiligheid in gevaar dreigt te zijn.
-**Artikel 11.1.3** Een politioneel ambtenaar heeft het recht om de volgende wapens tijdens zijn dienst bij zich te hebben: Advanced Rifle, Pump Shotgun, Combat PDW, Sniper Rifle, Nightstick, Switchblade, Stun Gun, Combat Pistol, Tear Gas, BZ Gas. Enkel voor get gebruik van deze wapens is artikel 2.8 niet van toepassing.
-**Artikel 11.1.4** Artikel 2.10, 2.11, 2.13 zijn niet van toepassing voor poltionele diensten en ambtenaren bij het dragen ven hun wapens en uitrusting.
-**Artikel 11.1.5** Een politioneel ambtenaar heeft het recht om iemand de foeilleren wanner hij of zij zich volgens de ambtenaar zich verdacht gedraagd.
-**Artikel 11.1.6** Een persoon die is staandegehouden of gearresteerd is door een politioneel ambetnaar heeft het recht te weten waarvoor hij, zij is aangehouden.
-**Artikel 11.1.7** Een politioneel ambtenaar moet bij een arrestatie de rechten van de garresteerde hardop voorlezen (de rechten kan u vinden in het document: rechten van de burger) in de taal van het land waarin de arrestatie zich voordoet tijdens het boeien of tijdens het insluiten van de persoon op het politie bureau.
-**Artikel 11.1.8** Een politioneel ambtenaar moet voordat hij een verdacht individu foeilleert melden dat hij het individu gaat doorzoeken.
-**Artikel 11.1.9** Een politioneel ambtenaar mag niet aan corruptie doen.
-**Artikel 11.1.10** Voordat een politioneel ambtenaar een woning binnenvalt, dient voor de deur hun dienst hardop genoemd te worden.
-**Artikel 11.1.11** Een politioneel ambtenaar moet toestemming hebben van een erkende rechter om een huis te mogen binnenvallen en te doorzoeken.
-**Artikel 11.1.12** Een politioneel ambtenaar heeft het recht om een voertuig te doorzoeken die ontgrendeld is.
-**Artikel 11.1.13** Een politioneel ambtenaar heeft het recht om een vergendeld voertuig te doorzoeken met toestemming van een rechter.
-**Artikel 11.1.14** Een politioneel ambtenaar heeft het recht om eigendommen van een persoon in beslag te nemen, indien het strafrecht boek dit voorschrijft.
-**Artikel 11.1.15** Een politioneel ambtenaar mag inbeslag genomen goederen niet voor zich houden.
-**Artikel 11.1.16** Een politioneel ambtenaar mag zijn uitrusting (kleding, wapens, munitie, ...) niet bijhouden buiten zijn dienst.
-**Artikel 11.1.17** Een politionele dienst heeft recht op alle artikels van artikel 11.9 Prioritar bevoegde voertuigen.
-**Artikel 11.1.18** Een politioneel ambtenaar heeft ten allen tijden beroepsgeheim. Ook wanneer hij of zij niet meer werkzaam is bij een politionele dienst.
-**Artikel 11.1.19** Een politioneel ambtenaar mag niet onder invoed zijn van alcohol of verdovende middelen tijdens zijn diensturen.
-**Artikel 11.1.20** Een poltioneel ambtenaar moet altijd de instructies volgen die gegeven zijn tijdens de opleiding.
+## Artikel 11.1 Wettelijke regelingen voor politionele diensten en pilotionele ambtenaren
+**Artikel 11.1.1** Een politioneel ambtenaar dient zich tijdens zijn dienst steeds kenbaar te maken doormiddel van een badge of door het dragen van het correcte uniform. Deze regel is niet van toepassing indien de veiligheid van de ambtenaar doormiddel van een bepaalde zaak niet in acht kan gesteld worden.<br>
+**Artikel 11.1.2** Een politioneel ambtenaar mag geweld naar een ander persoon gebruiken wanneer zijn eigen veiligheid in gevaar dreigt te zijn.<br>
+**Artikel 11.1.3** Een politioneel ambtenaar heeft het recht om de volgende wapens tijdens zijn dienst bij zich te hebben: Advanced Rifle, Pump Shotgun, Combat PDW, Sniper Rifle, Nightstick, Switchblade, Stun Gun, Combat Pistol, Tear Gas, BZ Gas. Enkel voor get gebruik van deze wapens is artikel 2.8 niet van toepassing.<br>
+**Artikel 11.1.4** Artikel 2.10, 2.11, 2.13 zijn niet van toepassing voor pilotionele diensten en ambtenaren bij het dragen ven hun wapens en uitrusting.<br>
+**Artikel 11.1.5** Een politioneel ambtenaar heeft het recht om iemand de foeilleren wanner hij of zij zich volgens de ambtenaar zich verdacht gedraagd.<br>
+**Artikel 11.1.6** Een persoon die is staandegehouden of gearresteerd is door een politioneel ambetnaar heeft het recht te weten waarvoor hij, zij is aangehouden.<br>
+**Artikel 11.1.7** Een politioneel ambtenaar moet bij een arrestatie de rechten van de garresteerde hardop voorlezen (de rechten kan u vinden in het document: rechten van de burger) in de taal van het land waarin de arrestatie zich voordoet tijdens het boeien of tijdens het insluiten van de persoon op het politie bureau.<br>
+**Artikel 11.1.8** Een politioneel ambtenaar moet voordat hij een verdacht individu foeilleert melden dat hij het individu gaat doorzoeken.<br>
+**Artikel 11.1.9** Een politioneel ambtenaar mag niet aan corruptie doen.<br>
+**Artikel 11.1.10** Voordat een politioneel ambtenaar een woning binnenvalt, dient voor de deur hun dienst hardop genoemd te worden.<br>
+**Artikel 11.1.11** Een politioneel ambtenaar moet toestemming hebben van een erkende rechter om een huis te mogen binnenvallen en te doorzoeken.<br>
+**Artikel 11.1.12** Een politioneel ambtenaar heeft het recht om een voertuig te doorzoeken die ontgrendeld is.<br>
+**Artikel 11.1.13** Een politioneel ambtenaar heeft het recht om een vergendeld voertuig te doorzoeken met toestemming van een rechter.<br>
+**Artikel 11.1.14** Een politioneel ambtenaar heeft het recht om eigendommen van een persoon in beslag te nemen, indien het strafrecht boek dit voorschrijft.<br>
+**Artikel 11.1.15** Een politioneel ambtenaar mag inbeslag genomen goederen niet voor zich houden.<br>
+**Artikel 11.1.16** Een politioneel ambtenaar mag zijn uitrusting (kleding, wapens, munitie, ...) niet bijhouden buiten zijn dienst.<br>
+**Artikel 11.1.17** Een politionele dienst heeft recht op alle artikels van artikel 11.9 Prioritar bevoegde voertuigen.<br>
+**Artikel 11.1.18** Een politioneel ambtenaar heeft ten allen tijden beroepsgeheim. Ook wanneer hij of zij niet meer werkzaam is bij een politionele dienst.<br>
+**Artikel 11.1.19** Een politioneel ambtenaar mag niet onder invoed zijn van alcohol of verdovende middelen tijdens zijn diensturen.<br>
+**Artikel 11.1.20** Een poltioneel ambtenaar moet altijd de instructies volgen die gegeven zijn tijdens de opleiding.<br>
 
 ## Artikel 11.2 Wettelijke regelingen voor de Nationale Organisatie voor Algemene Hulpverlening (NOAH) en de werknemers hiervan
 **Artikel 11.2.1** Een werknemer van NOAH dient zich tijdens zijn dienst steeds kenbaar te maken doormiddel van een badge of door het dragen van het correcte unfirom. Deze regel is niet van toepassing indien de veiligheid van de werknemer niet in acht kan genomen worden.
