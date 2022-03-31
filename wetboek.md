@@ -32,6 +32,7 @@ Hou er rekening mee dat de grondwet (serverregels) boven dit wetboek staat!
 **Artikel 1.3.3;** Indien de zon ondergaat en het donker wordt of is, dienen de lichten van het voertuig aangezet te worden.<br>
 
 ## Artikel 1.4 - Staat van het voer- vaartuig
+*Alle overtredingen van deze categorie worden omschreven als artikel 1.4*<br>
 **Artikel 1.4.1;** Een voertuig moet in het beschikking zijn van een geldig kentekenplaat. Er moet minstens één kentekenplaat zichtbaar en duidelijk op de achterzijde van het voertuig bevestigd zijn.<br>
 **Artikel 1.4.2;** Een voertuig moet in het bezit zijn van goedgekeurde gordelbeveiliging. Deze regel geldt niet voor tweewielige voertuigen zoals fietsen en motorfietsen.<br>
 **Artikel 1.4.3;** Een voertuig moet in het bezit zijn van witte of gele lampen vooraan het voertuig.<br>
@@ -41,11 +42,13 @@ Hou er rekening mee dat de grondwet (serverregels) boven dit wetboek staat!
 **Artikel 1.4.7;** Een voertuig moet in orde zijn met alle documentatie en verzekeringen.<br>
 
 ## Artikel 1.5 - Snelheden op de rijweg
+*Alle overtredingen van deze categorie worden omschreven als artikel 1.5*<br>
 **Artikel 1.5.1;** Binnen de bebouwde kom is de maximum snelheid 80 km / u. Met uitzondering van een daarbij bevoegd voertuig Cat. Artikel 11.<br>
 **Artikel 1.5.2;** Buiten de bebouwde kom en op autosnelwegen is de maximum snelheid 180 km / u. Met uizondering van een daarbij bevoegd voertuig. Cat. Artikel 11.<br>
 **Artikel 1.5.3;** Een prioritair voertuig die gebruik maakt van optische en geluidsignalen mag deze snelheid overschreiden mits de veiligheid van zichzelf, andere weggebruikers en de omgeving gegarandeerd kan worden.<br>
 
 ## Artikel 1.6 - Staat van de bestuurder
+*Alle overtredingen van deze categorie worden omschreven als artikel 1.6*<br>
 **Artikel 1.6.1;** De bestuurder dient ten alle tijden in het rijdende voertuig een veiligheidsgordel om te hebben.<br>
 **Artikel 1.6.2;** De bestuurder dient ten alle tijden het voertuig onder controle te hebben.<br>
 **Artikel 1.6.3;** De bestuurder mag niet tijdens het besturen van het voertuig een draagbaar mobiel toestel manipuleren.<br>
@@ -54,10 +57,12 @@ Hou er rekening mee dat de grondwet (serverregels) boven dit wetboek staat!
 **Artikel 1.6.6;** De bestuurder moet in staat zijn om het voertuig te besturen.<br>
 
 ## Artikel 1.7 - Voertuigdocumentatie
+*Alle overtredingen van deze categorie worden omschreven als artikel 1.7*<br>
 **Artikel 1.7.1;** De bestuurder dient altijd een geldig rijbewijs van je juiste voertuigcategorie bij zich te hebben.<br>
 **Artikel 1.7.2;** De bestuurder dient altijd een geldig identiteitsbewijs bij zich te hebben.<br>
 
 ## Artikel 1.8 - Stilstaan en parkeren
+*Alle overtredingen van deze categorie worden omschreven als artikel 1.8*<br>
 **Artikel 1.8.1;** Het stilstaan op een rijweg mag enkel aan de stoeprand.<br>
 **Artikel 1.8.2;** Stilstaan is, wanneer je voertuig stilstaat op de rijweg en waar de bestuurder zich nog in het voertuig aan het stuur bevindt.<br>
 **Artikel 1.8.3;** Parkeren is, wanneer je je voertuig aan de kant hebt gezet en de bestuurder zich niet meer in het voertuig aan het stuur bevindt.<br>
@@ -70,6 +75,7 @@ Hou er rekening mee dat de grondwet (serverregels) boven dit wetboek staat!
 **Artikel 1.8.10;** Parkeren mag niet voor een in- uitweg van een publiek of privaat domein.<br>
 
 # Artikel 2 - Wapen en munitie wet
+*Alle overtredingen van deze categorie worden omschreven als artikel 2*<br>
 **Artikel 2.1;** Alle wapens zijn onderverdeeld in vier categorieën zijnde: Categorie 0: Explosieven en gassen, Categorie 1: Zware vuuurwapens, Categorie 2: Lichte vuurwapens, Categorie 3: Slag en steek wapens.<br>
 **Artikel 2.2;** Wapens die vallen onder categorie 0: Sticky Bomb, Proximity Mine, Pipe Bomb, Molotov, Firework Launcher, Grenade Launcher, Homing Launcher, Railgun, RPG, Widowmaker, Unholy Hellbringer, Up-n-Atomizer, Grenade, Tear Gas, BZ Gas.<br>
 **Artikel 2.3;** Wapens die vallen onder categorie 1: Advanced Rifle, Assult Rifle, Bullpup Rifle, Carbine Rifle, Compact Rifle, Special Carbine, Assult Rifle, Minigun, Combat MG, Gusenberg Sweeper, MG, AP Pistol, Machine Pistol, Assault, Shotgun, Bullpup Shotgun, Double Barrel Shotgun, Heavy Shotgun, Musket, Pump Shotgun, Sawed-Off Shotgun, Sweeper Shotgun, Heavy Sniper, Marksam Rifle, Sniper Rifle, Assault SMG, Combat PDW, Micro SMG, Mini SMG, SMG.<br>
@@ -85,6 +91,7 @@ Hou er rekening mee dat de grondwet (serverregels) boven dit wetboek staat!
 **Artikel 2.13;** Het bij hebben van munitie voor elk wapen van iedere categorie is verboden en wordt gezien als wapen onder de categorie 3.<br>
 
 # Artikel 3 - Opiumwet
+*Alle overtredingen van deze categorie worden omschreven als artikel 3*<br>
 **Artikel 3.2;** Het produceren van verdovende middelen is verboden.<br>
 **Artikel 3.3;** Het verwerken van verdovende middelen is verboden.<br>
 **Artikel 3.4;** Alle handel, van kopen tot verkopen, van verdovende middelen is verboden.<br>
@@ -93,6 +100,7 @@ Hou er rekening mee dat de grondwet (serverregels) boven dit wetboek staat!
 **Artikel 2.7;** Het bezit van verdovende middelen is verboden.<br>
 
 # Artikel 4 - Wetten betrekking tot eigendommen
+*Alle overtredingen van deze categorie worden omschreven als artikel 4*<br>
 **Artikel 4.1;** Een eigendom is iets wat je aangekocht hebt, geërft of officiëel in ontvangst hebt genomen. Een eigendom is iets wat van jou is.<br>
 **Artikel 4.2;** Een woning dient gekocht te worden via een makelaar.<br>
 **Artikel 4.3;** Een woning dient verkocht te worden via een makelaar.<br>
@@ -107,6 +115,7 @@ Hou er rekening mee dat de grondwet (serverregels) boven dit wetboek staat!
 **Artikel 4.12;** Het heimelijk wegnemen van goederen of eigendommen van een ander persoon is bij wet verboden.<br>
 
 # Artikel 5 - Wetten betrekking tot openbare orde
+*Alle overtredingen van deze categorie worden omschreven als artikel 5*<br>
 **Artikel 5.1;** Hinderlijk geluid voor de medemens en dier in het openbaar is verboden.<br>
 **Artikel 5.2;** Het onder invloed zijn van verdovende middelen, of alcohol is niet toegestaan in het openbaar.<br>
 **Artikel 5.3;** Het sluikstorten van allerlij spullen en producten is niet toegestaan in het openbaar.<br>
@@ -117,15 +126,18 @@ Hou er rekening mee dat de grondwet (serverregels) boven dit wetboek staat!
 **Artikel 5.8;** Het onaangekondigd samenscholen met als doel een protest uit te voeren is verboden bij wet.<br>
 
 # Artikel 6 - Cyberwetgeving
+*Alle overtredingen van deze categorie worden omschreven als artikel 6*<br>
 **Artikel 6.1;** Het inbreken in dergelijke computers van anderen is verboden.<br>
 **Artikel 6.2;** Het stelen van digitale data, zoals persoonsgegevens en allerlei informatie is verboden.<br>
 
 # Artikel 7 - Milieuwetten
+*Alle overtredingen van deze categorie worden omschreven als artikel 7*<br>
 **Artikel 7.1;** Het jagen op wilde zoogdiere, vogels en reptielen zonder daarbij geldige vergunning is niet toegestaan.<br>
 **Artikel 7.2;** Visserij is toegestaan, zolang de vis geen gevoel van pijn vertoont.<br>
 **Artikel 7.3;** Het achterlaten van allerlei chemische producten in de natuur is niet toegestaan.<br>
 
 # Artikel 8 - Wetten betrekking tot handel van goederen en arbeid
+*Alle overtredingen van deze categorie worden omschreven als artikel 8*<br>
 **Artikel 7.1;** Het witwassen van geld is niet toegestaan.<br>
 **Artikel 7.2;** Het werken bij een persoon zonder de geldige voorafgaande documentatie valt onder zwartwerk en is niet toegestaan.<br>
 **Artikel 7.3;** Betalingen met zwart geld is niet toegestaan.<br>
@@ -141,6 +153,7 @@ Hou er rekening mee dat de grondwet (serverregels) boven dit wetboek staat!
 **Artikel 9.5;** Wanneer er geen rechter in dienst is, bepaald de hoogste in aanwezige rang bij de politie de straffen.
 
 # Artikel 10 - Identificatiewetten
+*Alle overtredingen van deze categorie worden omschreven als artikel 10*<br>
 **Artikel 10.1;** Iedere advocaat moet officieel geregistreerd en erkend zijn bij de regering. Elke persoon die zich voor doet als advocaat en die niet erkend is bij de overheid, is strafbaar aan artikel 10.7.<br>
 **Artikel 10.2;** Iedere makelaar moet officieel geregistreerd en erkend zijn bij de regering. Elke persoon die zich voor doet als makelaar en die niet erkend is bij de overheid, is strafbaar aan artikel 10.7.<br>
 **Artikel 10.3;** Iedere werknemer van het officiële taxi bedrijf van de gemeente, moet geregistreerd en erkend zijn bij de overheid. Elke persoon die zich voor doet als werknemer van het officiële taxi bedrijf en die niet erkend is bij de overheid, is stafbaar aan artikel 10.7.<br>
@@ -156,6 +169,7 @@ Hou er rekening mee dat de grondwet (serverregels) boven dit wetboek staat!
 **Artikel 10.12;** Iedere privé detective moet officieel geregistreerd en erkend zijn bij de regering. Elke persoon die zich voor doet als privé detective en die niet erkend is bij de overhied, is stafbaar aan artikel 10.7.<br>
 
 # Artikel 11 - Wetten betrekking tot specifiek gerichte personen, diensten, voertuigen en beroepen
+*Alle overtredingen van deze categorie worden omschreven als artikel 11*<br>
 
 ## Artikel 11.1 Wettelijke regelingen voor politionele diensten en politionele ambtenaren
 **Artikel 11.1.1;** Een politioneel ambtenaar dient zich tijdens zijn dienst steeds kenbaar te maken doormiddel van een badge of door het dragen van het correcte uniform. Deze regel is niet van toepassing indien de veiligheid van de ambtenaar doormiddel van een bepaalde zaak niet in acht kan gesteld worden.<br>
@@ -245,6 +259,7 @@ Hou er rekening mee dat de grondwet (serverregels) boven dit wetboek staat!
 **Artikel 11.11.5;** Een privé detective heeft het recht zijn eigen prijzen te bepalen voor zijn verleende diensten.<br>
 
 # Artikel 12 - Wetten betrekking tot vormen van geweld, fysieke en verbale agressie
+*Alle overtredingen van deze categorie worden omschreven als artikel 12*<br>
 *Alle onderstaande artikelen kunnnen van toepassing zijn, ongeacht het middel dat gebruikt is geweest, zoals wapens, producten, ...*<br>
 **Artikel 12.1;** Moord, doodslag, dood door schuld is verboden bij wet.<br>
 **Artikel 12.2;** Fysieke mishandeling is verboden bij wet.<br>
