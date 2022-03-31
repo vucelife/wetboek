@@ -3,6 +3,7 @@ Dit is het wetboek van VuceLife, deze regels zijn opgedragen door de huidige en 
 De wetten worden gehandhaafd door de politiediensten van VuceLife. Zij treden op waar nodig.
 Indien iemand deze wetten overtreed, wordt er in roleplay gesanctioneerd. 
 Deze sancties kunnen oplopen van bekeuringen tot celstraffen.
+Hou er rekening mee dat de grondwet (serverregels) boven dit wetboek staat!
 
 # Artikel 1 - Wegen en verkeerswet
 
@@ -112,6 +113,8 @@ Deze sancties kunnen oplopen van bekeuringen tot celstraffen.
 **Artikel 5.4;** Het vernielen van gebouwen en andere infrastructuur is verboden.<br>
 **Artikel 5.5;** Het belagen, discrimineren, lastig vallen naar de medemens en dier is verboden.<br>
 **Artikel 5.6;** Het aangezicht van een persoon dient ten alle tijden zichtbaar te zijn op openbare plaatsen.<br>
+**Artikel 5.7;** Het gooien van sneeuwballen op personen of een ander zijn eigendom is verboden bij wet.<br>
+**Artikel 5.8;** Het onaangekondigd samenscholen met als doel een protest uit te voeren is verboden bij wet.<br>
 
 # Artikel 6 - Cyberwetgeving
 **Artikel 6.1;** Het inbreken in dergelijke computers van anderen is verboden.<br>
@@ -156,7 +159,7 @@ Deze sancties kunnen oplopen van bekeuringen tot celstraffen.
 
 ## Artikel 11.1 Wettelijke regelingen voor politionele diensten en politionele ambtenaren
 **Artikel 11.1.1;** Een politioneel ambtenaar dient zich tijdens zijn dienst steeds kenbaar te maken doormiddel van een badge of door het dragen van het correcte uniform. Deze regel is niet van toepassing indien de veiligheid van de ambtenaar doormiddel van een bepaalde zaak niet in acht kan gesteld worden.<br>
-**Artikel 11.1.2;** Een politioneel ambtenaar mag geweld naar een ander persoon gebruiken wanneer zijn eigen veiligheid in gevaar dreigt te zijn.<br>
+**Artikel 11.1.2;** Een politioneel ambtenaar mag geweld naar een ander persoon gebruiken wanneer zijn eigen veiligheid in gevaar dreigt te zijn. Deze regel geeft uitzondering van geheel artikel 12. Indien er misbruik bij de politioneel ambtenaar is geweest tijdens het gebruik van geweld, telt artikel 12 wel mee en wordt er naar deze wetten gekeken voor een evnetuele straf.<br>
 **Artikel 11.1.3;** Een politioneel ambtenaar heeft het recht om de volgende wapens tijdens zijn dienst bij zich te hebben: Advanced Rifle, Pump Shotgun, Combat PDW, Sniper Rifle, Nightstick, Switchblade, Stun Gun, Combat Pistol, Tear Gas, BZ Gas. Enkel voor get gebruik van deze wapens is artikel 2.8 niet van toepassing.<br>
 **Artikel 11.1.4;** Artikel 2.10, 2.11, 2.13 zijn niet van toepassing voor politionele diensten en ambtenaren bij het dragen ven hun wapens en uitrusting.<br>
 **Artikel 11.1.5;** Een politioneel ambtenaar heeft het recht om iemand de foeilleren wanner hij of zij zich volgens de ambtenaar zich verdacht gedraagd.<br>
@@ -181,29 +184,65 @@ Deze sancties kunnen oplopen van bekeuringen tot celstraffen.
 **Artikel 11.2.2;** Een werknemer van NOAH is hulplichting, hij / zij dient ten alle tijden hulp te kunnen bieden aan mensen die dit nodig achten.<br>
 **Artikel 11.2.3;** Een werknemer van NOAH mag niet doen aan corruptie.<br>
 **Artikel 11.2.4;** Een werknemer van NOAH dient de gegeven insturcties van de opleiding te volgen.<br>
-**Artikel 11.2.5;** Een werknemer van NOAH heeft ten allen tijde geheimhouding van de patiënt.
-**Artikel 11.2.6;** Een werknemer van NOAH heeft meldplicht aan de daarvoor bevoegd persoon wanneer het leven van de patïent in gevaar is en niet direct kan geholpen worden.
-**Artikel 11.2.7;**
-
+**Artikel 11.2.5;** Een werknemer van NOAH heeft ten allen tijde geheimhouding van de patiënt. Ook wanneer hij of zij niet meer werkzaam is bij de NOAH.<br>
+**Artikel 11.2.6;** Een werknemer van NOAH heeft meldplicht aan de daarvoor bevoegd persoon wanneer het leven van de patïent in gevaar is en niet direct kan geholpen worden.<br>
+**Artikel 11.2.7;** De dienst NOAH heeft recht op alle artikel van artikel 11.9 prioritair bevoegde voertuigen.<br>
+**Artikel 11.2.8;** Een werknemer van NOAH mag niet aan corruptie doen.<br>
 
 ## Artikel 11.3 Wettelijke regelingen voor advocaten
+**Artikel 11.3.1;** Een advocaat moet officieel erkend zijn bij de overheid.<br>
+**Artikel 11.3.2;** Een advocaat mag maar één client tegelijkertijd bedienen.<br>
+**Artikel 11.3.3;** Een advocaat heeft het recht om de samenwerking met een client te stoppen om eender welk moment.<br>
+**Artikel 11.3.4;** Een advocaat en zijn / haar client heeft het recht om voor een officiëel verhoor elkaar te spreken in een private omgeving.<br>
+**Artikel 11.3.5;** Een advocaat heeft het recht om zelf de prijzen van zijn diensten te bepalen.<br>
 
 ## Artikel 11.4 Wettelijke regelingen voor rechters
-onafhankelijk
+*De functie rechter is momenteel nog niet van toepassing, de onderstaande regels gelden tijdelijk tot de functie wordt toegepast.*<br>
+**Artikel 11.4.1;** Een rechter moet een onafhankelijk staff lid zijn, die niet betrokken is bij het incident, deze dient niet erkend te zijn maar hij/zij wordt wel toegevoegd aan de lijst van rechters.<br>
+**Artikel 11.4.2;** Indien een rechtzaak uit de hand begint te lopen, en de grondwet hierdoor wordt overtreden. Wordt er naar de regelgeving van de grondwet gekeken.<br>
+**Artikel 11.4.3;** Een rechter dient altijd, ten alle tijden, onafhankelijk te zijn.<br>
+**Artikel 11.4.4;** Een rechter mag niet corrupt zijn.<br>
+**Artikel 11.4.5;** Een rechter dient altijd beschikbaar te zijn.<br>
 
 ## Artikel 11.5 Wettelijke regelingen voor politiekers
-*Deze categorie van het wetboek is momenteel nog niet van toepassing*
+*De functie van de politiekers is nog niet van toepassing, de onderstaande regels gelden tijdelijk tot de functie wordt toegepast.*<br>
+**Artikel 11.5.1;** De functie van politiekers ligt tijdelijk bij de admins.<br>
 
 ## Artikel 11.6 Wettelijke regelingen voor makelaars
-*Deze categorie van het wetboek is momenteel nog niet van toepassing*
+*De functie van makelaar is nog niet van toepassing, de onderstaande regels gelden tijdelijk tot de functie wordt toegepast.*<br>
+**Artikel 11.6.1;** Voor een appartement aan te kopen of te verkopen, of het huren van een hotel, is er geen makelaar nodig.<br>
 
 ## Artikel 11.7 Wettelijke regelingen voor wegenwachters
+**Artikel 11.7.1;** Een wegenwachter dient zich tijdens zijn dienst steeds kenbaar te maken doormiddel van het juiste uniform te dragen.<br>
+**Artikel 11.7.2;** Een wegenwachter mag pas enkel een voertuig slepen wanneer de eigenaar of een politioneel ambtenaar hier toestemming voor geeft.<br>
+**Artikel 11.7.3;** Een wegenwachter mag pas enkel een voertuig openen wanneer de eigenaar of een politioneel ambtenaar hier toestemming voor geeft.<br>
+**Artikel 11.7.4;** Een wegenwachter mag niet corrupt zijn.<br>
+**Artikel 11.7.5;** Een wegenwachter mag niet onterecht voertuigen die hij sleept achterlaten op de rijbaan.<br>
 
 ## Artikel 11.8 Wettelijke regelingen voor werknemers van het officiële taxi bedrijf
+**Artikel 11.8.1;** Een werknemer van het officiële taxi bedrijf mag enkel zijn diensten uitvoeren in één van de officiële voertuigen die de werknemer tot zijn/haar beschikking heeft.<br>
+**Artikel 11.8.2;** Een werknemer van het officiële taxi bedrijf dient zich te houden aan de prijzen die de taxi meter in het voertuig aangeeft.<br>
+**Artikel 11.8.3;** Een werknemer van het officiële taxi bedrijf mag niet corrupt zijn.<br>
+**Artikel 11.8.4;** Een werknemer van het officiële taxi bedrijf dient zich te volgen aan de instructies die gegeven zijn bij de opleiding.<br>
 
 ## Artikel 11.9 Wettelijke regelingen voor werknemers van de landelijke meldkamer
-*Deze categorie van het wetboek is momenteel nog niet van toepassing* 
+*De functie van centralist bij de landelijke meldkamer is nog niet van toepassing, de onderstaande regels gelden tijdelijk tot de functie wordt toegepast.* <br>
+**Artikel 11.9.1;** Bij een drukke opkomst van eenheden wordt er iemand specifiek aangesteld als meldkamer per organisatie.<br>
+**Artikel 11.9.2;** Een centralist dient zich te volgen aan de insturcties de gegeven zijn bij de opleiding.<br>
 
-## Artikel 11.9 Prioritair bevoegde voertuigen
+## Artikel 11.10 Prioritair bevoegde voertuigen
+**Artikel 11.10.1;** Een prioritair bevoegd voertuig is een voertuig dat beschikt over één of meerdere blauwe lichten op het dak, in de grill, op de spiegels of op de bumper heeft en gebruik kan maken van een sirene die minstens 110db(a) is én deze ook heeft aan staan.<br>
+**Artikel 11.10.2;** Een prioritair bevoegd voertuig heeft uitsluiting op de volgende verkeersregels mits de veiligheid van zichzelf, anderen en de omgeving in acht genomen wordt. Art. 1.1.2, Art. 1.1.3, Art. 1.1.5, Art. 1.1.6, Art. 1.1.7, Art. 1.2.3, Art. 1.3.1, Art. 1.4.6, Art. 1.5.1, Art. 1.5.1, Art. 1.5.2, Art. 1.8.1, Art. 1.8.4, Art. 1.8.5, Art. 1.8.8, Art. 1.8.9, Art. 1.8.10.<br>
+**Artikel 11.10.3;** Een voertuig dat zich tussen twee of meerdere prioritaire voertuigen rijdt en zijn alarm lichten heeft aangezet. Telt mee als prioritair voertuig. Dit wordkt ook wel een transport, konvooi genoemd.<br>
 
-# Artikel 12 - Wetten betrekking tot vormen van geweld
+# Artikel 12 - Wetten betrekking tot vormen van geweld, fysieke en verbale agressie
+*Alle onderstaande artikelen kunnnen van toepassing zijn, ongeacht het middel dat gebruikt is geweest, zoals wapens, producten, ...*<br>
+**Artikel 12.1;** Moord, doodslag, dood door schuld is verboden bij wet.<br>
+**Artikel 12.2;** Fysieke mishandeling is verboden bij wet.<br>
+**Artikel 12.3;** Stalking/Belaging is verboden bij wet.<br>
+**Artikel 12.4;** Emotionele/psychische mishandeling en/of bedreiding met zware mishandeling en/of de dood is verboden bij wet.<br>
+**Artikel 12.5;** Fysieke verwaarlozing/benadering van de gezondheid/onthouden van zorg is verboden bij wet.<br>
+**Artikel 12.6;** Ontrekken aan het gezag, ontvoering, achterlating, huwelijksdwang is verboden bij wet.<br>
+**Artikel 12.7;** Emotionele/psychische verwaarlozing is verboden bij wet.<br>
+**Artikel 12.8;** Dwang om iets te doen (bijvoorbeeld te trouwen) of juist niet te doen is verboden bij wet.<br>
+**Artikel 12.9;** Het onrechtmatig personen in gevangenschap te houden, zoals gijzelnemen is verboden bij wet.<br>
