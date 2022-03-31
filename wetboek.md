@@ -195,6 +195,7 @@ Hou er rekening mee dat de grondwet (serverregels) boven dit wetboek staat!
 **Artikel 11.3.3;** Een advocaat heeft het recht om de samenwerking met een client te stoppen om eender welk moment.<br>
 **Artikel 11.3.4;** Een advocaat en zijn / haar client heeft het recht om voor een officiëel verhoor elkaar te spreken in een private omgeving.<br>
 **Artikel 11.3.5;** Een advocaat heeft het recht om zelf de prijzen van zijn diensten te bepalen.<br>
+**Artikel 11.3.6;** Een advocaat is geen rechter.<br>
 
 ## Artikel 11.4 Wettelijke regelingen voor rechters
 *De functie rechter is momenteel nog niet van toepassing, de onderstaande regels gelden tijdelijk tot de functie wordt toegepast.*<br>
@@ -203,6 +204,7 @@ Hou er rekening mee dat de grondwet (serverregels) boven dit wetboek staat!
 **Artikel 11.4.3;** Een rechter dient altijd, ten alle tijden, onafhankelijk te zijn.<br>
 **Artikel 11.4.4;** Een rechter mag niet corrupt zijn.<br>
 **Artikel 11.4.5;** Een rechter dient altijd beschikbaar te zijn.<br>
+**Artikel 11.4.6;** Een rechter is geen advocaat.<br>
 
 ## Artikel 11.5 Wettelijke regelingen voor politiekers
 *De functie van de politiekers is nog niet van toepassing, de onderstaande regels gelden tijdelijk tot de functie wordt toegepast.*<br>
@@ -234,6 +236,13 @@ Hou er rekening mee dat de grondwet (serverregels) boven dit wetboek staat!
 **Artikel 11.10.1;** Een prioritair bevoegd voertuig is een voertuig dat beschikt over één of meerdere blauwe lichten op het dak, in de grill, op de spiegels of op de bumper heeft en gebruik kan maken van een sirene die minstens 110db(a) is én deze ook heeft aan staan.<br>
 **Artikel 11.10.2;** Een prioritair bevoegd voertuig heeft uitsluiting op de volgende verkeersregels mits de veiligheid van zichzelf, anderen en de omgeving in acht genomen wordt. Art. 1.1.2, Art. 1.1.3, Art. 1.1.5, Art. 1.1.6, Art. 1.1.7, Art. 1.2.3, Art. 1.3.1, Art. 1.4.6, Art. 1.5.1, Art. 1.5.1, Art. 1.5.2, Art. 1.8.1, Art. 1.8.4, Art. 1.8.5, Art. 1.8.8, Art. 1.8.9, Art. 1.8.10.<br>
 **Artikel 11.10.3;** Een voertuig dat zich tussen twee of meerdere prioritaire voertuigen rijdt en zijn alarm lichten heeft aangezet. Telt mee als prioritair voertuig. Dit wordkt ook wel een transport, konvooi genoemd.<br>
+
+## Artikel 11.11 Wettelijke regelingen voor privé detectives
+**Artikel 11.11.1;** Een privé detective moet officiëel erkend zijn bij de overheid.<br>
+**Artikel 11.11.2;** Een privé detective kan pas zijn diensten uitvoeren wanneer hij minstens twee maanden geleden bij een politionele dienst heeft gewerkt.<br>
+**Artikel 11.11.3;** Een privé detective heeft het recht om de samenwerking met zijn klant te stoppen op eender welk moment.<br>
+**Artikel 11.11.4;** Een privé detective heeft geen vrijstelling op bepaalde wetten.<br>
+**Artikel 11.11.5;** Een privé detective heeft het recht zijn eigen prijzen te bepalen voor zijn verleende diensten.<br>
 
 # Artikel 12 - Wetten betrekking tot vormen van geweld, fysieke en verbale agressie
 *Alle onderstaande artikelen kunnnen van toepassing zijn, ongeacht het middel dat gebruikt is geweest, zoals wapens, producten, ...*<br>
