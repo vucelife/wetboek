@@ -50,7 +50,7 @@ Iedere volwassene heeft het recht een beroep uit te oefenen, tegen een redelijk 
 We hebben allemaal het recht te rusten na het werk en te ontspannen.<br>
 **25) Voedsel en onderdak voor iedereen**<br>
 We hebben allemaal het recht op een goed leven. Moeders en kinderen, ouderen, werklozen of gehandicapten, alle mensen hebben het recht dat er voor hen gezorgd wordt.<br>
-# 26) Het recht op onderwijs<br>
+**26) Het recht op onderwijs**<br>
 Onderwijs is een recht. Basisonderwijs behoort gratis te zijn. We horen te leren over de Verenigde Naties en hoe we met andere mensen moeten omgaan. Onze ouders moeten vrij zijn in de onderwijskeuze voor kun kind.<br>
 **27) Auteursrecht**<br>
 Het auteursrecht is een speciale wet ter bescherming van iemands artistieke creaties en wat hij geschreven heeft; anderen mogen jouw creaties niet kopiëren zonder jouw toestemming. We hebben allemaal het recht op onze eigen manier van leven en om te genieten van de mooie dingen die kunst, wetenschap en onderwijs ons brengen.<br>
