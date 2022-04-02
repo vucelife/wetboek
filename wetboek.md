@@ -81,7 +81,7 @@ Hou er rekening mee dat de grondwet (serverregels) boven dit wetboek staat!
 **Artikel 2.3;** Wapens die vallen onder categorie 1: Advanced Rifle, Assult Rifle, Bullpup Rifle, Carbine Rifle, Compact Rifle, Special Carbine, Assult Rifle, Minigun, Combat MG, Gusenberg Sweeper, MG, AP Pistol, Machine Pistol, Assault, Shotgun, Bullpup Shotgun, Double Barrel Shotgun, Heavy Shotgun, Musket, Pump Shotgun, Sawed-Off Shotgun, Sweeper Shotgun, Heavy Sniper, Marksam Rifle, Sniper Rifle, Assault SMG, Combat PDW, Micro SMG, Mini SMG, SMG.<br>
 **Artikel 2.4;** Wapens die vallen onder categorie 2: Stun Gun, Combat Pistol, Double-Action Revolver, Heavy Pistol, Heavy Revolver, Machine Pistol, Pistol .50, Pistol, SNS Pistol, Vintage Pistol.<br>
 **Artikel 2.5;** Wapens die vallen onder categorie 3: Antique Cavalry Dagger, Battle Axe, Knife, Knuckle Duster, Machete, Nightstick, Stone Hatchet, Switchblade.<br>
-**Artikel 2.6;** Voorwerpen en- of gereedschappen die gebruik worden voor een bapaald beroep uit te voeren of hobby uit te oefenen worden niet gezien als wapen. Deze voorwerpen en- of gereedschappen mag je enkel vervoeren van thuis naar de plaats van gebruik en terug. Wanneer het voorwerp en- of gereedschap misbruikt wordt of verkeerd wordt vervoerd, wordt dit voorwerp en- of werktuig aangezien als wapen van de derde categorie.<br>
+**Artikel 2.6;** Voorwerpen en- of gereedschappen die gebruik worden voor een bepaald beroep uit te voeren of hobby uit te oefenen worden niet gezien als wapen. Deze voorwerpen en- of gereedschappen mag je enkel vervoeren van thuis naar de plaats van gebruik en terug. Wanneer het voorwerp en- of gereedschap misbruikt wordt of verkeerd wordt vervoerd, wordt dit voorwerp en- of werktuig aangezien als wapen van de derde categorie.<br>
 **Artikel 2.7;** Elk misbruik van een wapen van iedere categorie wordt bestraft, hier vallen ook voorwerpen en gereedschappen onder.<br>
 **Artikel 2.8;** Categorie 0, 1, 2 en 3 vallen onder verboden wapens mits anders aangeduid.<br>
 **Artikel 2.9;** Elke handel, van productie, verkoop of koop van wapens van iedere categorie is verboden.<br>
@@ -173,35 +173,35 @@ Hou er rekening mee dat de grondwet (serverregels) boven dit wetboek staat!
 
 ## Artikel 11.1 Wettelijke regelingen voor politionele diensten en politionele ambtenaren
 **Artikel 11.1.1;** Een politioneel ambtenaar dient zich tijdens zijn dienst steeds kenbaar te maken doormiddel van een badge of door het dragen van het correcte uniform. Deze regel is niet van toepassing indien de veiligheid van de ambtenaar doormiddel van een bepaalde zaak niet in acht kan gesteld worden.<br>
-**Artikel 11.1.2;** Een politioneel ambtenaar mag geweld naar een ander persoon gebruiken wanneer zijn eigen veiligheid in gevaar dreigt te zijn. Deze regel geeft uitzondering van geheel artikel 12. Indien er misbruik bij de politioneel ambtenaar is geweest tijdens het gebruik van geweld, telt artikel 12 wel mee en wordt er naar deze wetten gekeken voor een evnetuele straf.<br>
-**Artikel 11.1.3;** Een politioneel ambtenaar heeft het recht om de volgende wapens tijdens zijn dienst bij zich te hebben: Advanced Rifle, Pump Shotgun, Combat PDW, Sniper Rifle, Nightstick, Switchblade, Stun Gun, Combat Pistol, Tear Gas, BZ Gas. Enkel voor get gebruik van deze wapens is artikel 2.8 niet van toepassing.<br>
-**Artikel 11.1.4;** Artikel 2.10, 2.11, 2.13 zijn niet van toepassing voor politionele diensten en ambtenaren bij het dragen ven hun wapens en uitrusting.<br>
-**Artikel 11.1.5;** Een politioneel ambtenaar heeft het recht om iemand de foeilleren wanner hij of zij zich volgens de ambtenaar zich verdacht gedraagd.<br>
-**Artikel 11.1.6;** Een persoon die is staandegehouden of gearresteerd is door een politioneel ambetnaar heeft het recht te weten waarvoor hij, zij is aangehouden.<br>
-**Artikel 11.1.7;** Een politioneel ambtenaar moet bij een arrestatie de rechten van de garresteerde hardop voorlezen (de rechten kan u vinden in het document: rechten van de burger) in de taal van het land waarin de arrestatie zich voordoet tijdens het boeien of tijdens het insluiten van de persoon op het politie bureau.<br>
-**Artikel 11.1.8;** Een politioneel ambtenaar moet voordat hij een verdacht individu foeilleert melden dat hij het individu gaat doorzoeken.<br>
+**Artikel 11.1.2;** Een politioneel ambtenaar mag geweld naar een ander persoon gebruiken wanneer zijn eigen veiligheid in gevaar dreigt te zijn. Deze regel geeft uitzondering van geheel artikel 12. Indien er misbruik bij de politioneel ambtenaar is geweest tijdens het gebruik van geweld, telt artikel 12 wel mee en wordt er naar deze wetten gekeken voor een eventuele straf.<br>
+**Artikel 11.1.3;** Een politioneel ambtenaar heeft het recht om de volgende wapens tijdens zijn dienst bij zich te hebben: Advanced Rifle, Pump Shotgun, Combat PDW, Sniper Rifle, Nightstick, Switchblade, Stun Gun, Combat Pistol, Tear Gas, BZ Gas. Enkel voor het gebruik van deze wapens is artikel 2.8 niet van toepassing.<br>
+**Artikel 11.1.4;** Artikel 2.10, 2.11, 2.13 zijn niet van toepassing voor politionele diensten en ambtenaren bij het dragen van hun wapens en uitrusting.<br>
+**Artikel 11.1.5;** Een politioneel ambtenaar heeft het recht om iemand de fouilleren wanneer hij of zij zich volgens de ambtenaar zich verdacht gedraagd.<br>
+**Artikel 11.1.6;** Een persoon die is staandegehouden of gearresteerd is door een politioneel ambtenaar heeft het recht te weten waarvoor hij, zij is aangehouden.<br>
+**Artikel 11.1.7;** Een politioneel ambtenaar moet bij een arrestatie de rechten van de garresteerde hardop voorlezen (de rechten kan u vinden in het document: rechten van de mens) in de taal van het land waarin de arrestatie zich voordoet tijdens het boeien of tijdens het insluiten van de persoon op het politie bureau.<br>
+**Artikel 11.1.8;** Een politioneel ambtenaar moet voordat hij een verdacht individu fouilleert melden dat hij het individu gaat doorzoeken.<br>
 **Artikel 11.1.9;** Een politioneel ambtenaar mag niet aan corruptie doen.<br>
 **Artikel 11.1.10;** Voordat een politioneel ambtenaar een woning binnenvalt, dient voor de deur hun dienst hardop genoemd te worden.<br>
 **Artikel 11.1.11;** Een politioneel ambtenaar moet toestemming hebben van een erkende rechter om een huis te mogen binnenvallen en te doorzoeken.<br>
 **Artikel 11.1.12;** Een politioneel ambtenaar heeft het recht om een voertuig te doorzoeken die ontgrendeld is.<br>
-**Artikel 11.1.13;** Een politioneel ambtenaar heeft het recht om een vergendeld voertuig te doorzoeken met toestemming van een rechter.<br>
-**Artikel 11.1.14;** Een politioneel ambtenaar heeft het recht om eigendommen van een persoon in beslag te nemen, indien het strafrecht boek dit voorschrijft.<br>
+**Artikel 11.1.13;** Een politioneel ambtenaar heeft het recht om een vergendeld voertuig te doorzoeken met toestemming van een rechter of er eigenaar zelf.<br>
+**Artikel 11.1.14;** Een politioneel ambtenaar heeft het recht om eigendommen van een persoon in beslag te nemen, indien het strafrechtboek dit voorschrijft.<br>
 **Artikel 11.1.15;** Een politioneel ambtenaar mag inbeslag genomen goederen niet voor zich houden.<br>
 **Artikel 11.1.16;** Een politioneel ambtenaar mag zijn uitrusting (kleding, wapens, munitie, ...) niet bijhouden buiten zijn dienst.<br>
 **Artikel 11.1.17;** Een politionele dienst heeft recht op alle artikels van artikel 11.9 Prioritar bevoegde voertuigen.<br>
 **Artikel 11.1.18;** Een politioneel ambtenaar heeft ten allen tijden beroepsgeheim. Ook wanneer hij of zij niet meer werkzaam is bij een politionele dienst.<br>
 **Artikel 11.1.19;** Een politioneel ambtenaar mag niet onder invoed zijn van alcohol of verdovende middelen tijdens zijn diensturen.<br>
-**Artikel 11.1.20;** Een poltioneel ambtenaar moet altijd de instructies volgen die gegeven zijn tijdens de opleiding.<br>
+**Artikel 11.1.20;** Een politioneel ambtenaar moet altijd de instructies volgen die gegeven zijn tijdens de opleiding.<br>
 
-## Artikel 11.2 Wettelijke regelingen voor de Nationale Organisatie voor Algemene Hulpverlening (NOAH) en de werknemers hiervan
-**Artikel 11.2.1;** Een werknemer van NOAH dient zich tijdens zijn dienst steeds kenbaar te maken doormiddel van een badge of door het dragen van het correcte unfirom. Deze regel is niet van toepassing indien de veiligheid van de werknemer niet in acht kan genomen worden.<br>
-**Artikel 11.2.2;** Een werknemer van NOAH is hulplichting, hij / zij dient ten alle tijden hulp te kunnen bieden aan mensen die dit nodig achten.<br>
-**Artikel 11.2.3;** Een werknemer van NOAH mag niet doen aan corruptie.<br>
-**Artikel 11.2.4;** Een werknemer van NOAH dient de gegeven insturcties van de opleiding te volgen.<br>
-**Artikel 11.2.5;** Een werknemer van NOAH heeft ten allen tijde geheimhouding van de patiënt. Ook wanneer hij of zij niet meer werkzaam is bij de NOAH.<br>
-**Artikel 11.2.6;** Een werknemer van NOAH heeft meldplicht aan de daarvoor bevoegd persoon wanneer het leven van de patïent in gevaar is en niet direct kan geholpen worden.<br>
-**Artikel 11.2.7;** De dienst NOAH heeft recht op alle artikel van artikel 11.9 prioritair bevoegde voertuigen.<br>
-**Artikel 11.2.8;** Een werknemer van NOAH mag niet aan corruptie doen.<br>
+## Artikel 11.2 Wettelijke regelingen voor de Dienst Algemene Reddingen (DAR) en de werknemers hiervan
+**Artikel 11.2.1;** Een werknemer van DAR dient zich tijdens zijn dienst steeds kenbaar te maken doormiddel van een badge of door het dragen van het correcte unfirom. Deze regel is niet van toepassing indien de veiligheid van de werknemer niet in acht kan genomen worden.<br>
+**Artikel 11.2.2;** Een werknemer van DAR is hulplichting, hij / zij dient ten alle tijden hulp te kunnen bieden aan mensen die dit nodig achten.<br>
+**Artikel 11.2.3;** Een werknemer van DAR mag niet doen aan corruptie.<br>
+**Artikel 11.2.4;** Een werknemer van DAR dient de gegeven insturcties van de opleiding te volgen.<br>
+**Artikel 11.2.5;** Een werknemer van DAR heeft ten allen tijde geheimhouding van de patiënt. Ook wanneer hij of zij niet meer werkzaam is bij de DAR.<br>
+**Artikel 11.2.6;** Een werknemer van DAR heeft meldplicht aan de daarvoor bevoegd persoon wanneer het leven van de patïent in gevaar is en niet direct kan geholpen worden.<br>
+**Artikel 11.2.7;** De dienst DAR heeft recht op alle artikel van artikel 11.9 prioritair bevoegde voertuigen.<br>
+**Artikel 11.2.8;** Een werknemer van DAR mag niet aan corruptie doen.<br>
 
 ## Artikel 11.3 Wettelijke regelingen voor advocaten
 **Artikel 11.3.1;** Een advocaat moet officieel erkend zijn bij de overheid.<br>
@@ -268,5 +268,5 @@ Hou er rekening mee dat de grondwet (serverregels) boven dit wetboek staat!
 **Artikel 12.5;** Fysieke verwaarlozing/benadering van de gezondheid/onthouden van zorg is verboden bij wet.<br>
 **Artikel 12.6;** Ontrekken aan het gezag, ontvoering, achterlating, huwelijksdwang is verboden bij wet.<br>
 **Artikel 12.7;** Emotionele/psychische verwaarlozing is verboden bij wet.<br>
-**Artikel 12.8;** Dwang om iets te doen (bijvoorbeeld te trouwen) of juist niet te doen is verboden bij wet.<br>
+**Artikel 12.8;** Dwang om iets te doen of juist niet te doen is verboden bij wet.<br>
 **Artikel 12.9;** Het onrechtmatig personen in gevangenschap te houden, zoals gijzelnemen is verboden bij wet.<br>

@@ -64,12 +64,14 @@ We hebben een plicht naar andere mensen en moeten hun rechten en vrijheden ook b
 # Rechten van een gevangenen
 *Deze rechten tellen enkel bij iemand die in gevangenschap is genomen.*<br>
 **1) Recht op eten en drinken**<br>
-Een gavangene heeft recht op twee water en 2 brood.<br>
+Een gevangene heeft recht op twee water en 2 brood.<br>
 **2) Recht op telefoon**<br>
-Een gavangene heeft recht om één keer te bellen met zijn/haar eigen telefoon.<br> 
+Een gevangene heeft recht om één keer te bellen met zijn/haar eigen telefoon.<br> 
 **3) Recht op wetendheid**<br>
-Een gavangene heet het recht te weten waarvoor hij/zij is gearresteerd is en wat de volgende stappen gaan zijn.<br>
+Een gevangene heet het recht te weten waarvoor hij/zij is gearresteerd is en wat de volgende stappen gaan zijn.<br>
 **4) Recht op een advocaat**<br>
 Een gevangene heeft recht op een advocaat, indien deze aanwezig is.<br>
 **5) Recht op een tolk**<br>
 Een gevangene heeft het recht op een tolk indien hij/zij de Nederlandse taal niet machtig is.<br>
+**6) Recht op medische zorg**<br>
+Een gevangene heeft het recht op medische zorg.<br>
