@@ -1,9 +1,13 @@
+# VUCELIFE CODEX
+
 # Algemene informatie
 Dit is het wetboek van VuceLife, deze regels zijn opgedragen door de huidige en vorige regeringen.
 De wetten worden gehandhaafd door de politiediensten van VuceLife. Zij treden op waar nodig.
 Indien iemand deze wetten overtreed, wordt er in roleplay gesanctioneerd. 
 Deze sancties kunnen oplopen van bekeuringen tot celstraffen.
 Hou er rekening mee dat de grondwet (serverregels) boven dit wetboek staat!
+
+# Defenities en gespecificeerde betekenissen van de gebruikte woordenschat in de CODEX
 
 # Artikel 1 - Wegen en verkeerswet
 
@@ -270,3 +274,57 @@ Hou er rekening mee dat de grondwet (serverregels) boven dit wetboek staat!
 **Artikel 12.7;** Emotionele/psychische verwaarlozing is verboden bij wet.<br>
 **Artikel 12.8;** Dwang om iets te doen of juist niet te doen is verboden bij wet.<br>
 **Artikel 12.9;** Het onrechtmatig personen in gevangenschap te houden, zoals gijzelnemen is verboden bij wet.<br>
+
+# Artikel 13 - Wetten betrekking tot de openbare wateren en de publieke vaarwegen
+
+## Artikel 13.1 - Veiligheidsregels op de publieke wateren
+*Alle overtredingen van deze categorie worden omschreven als artikel 13.1*<br>
+**Artikel 13.1.1** Op ieder vaartuig moeten er gekeurde reddingsvesten aanwezig zijn. Er moet één reddingsvest beschikbaar zijn per persoon aan boord.<br>
+**Artikel 13.1.2** Kinderen onder de 16 jaar zijn verplicht een reddingsvest te dragen, wanneer zij zich op het dek begeven.<br>
+**Artikel 13.1.3** Een vaartuig moet beschikken over één of meerdere nood-flairs / noodvuur. Deze dienen gebruikt te worden bij nood.<br>
+**Artikel 13.1.4** De DAR staat in over de reddingsoperaties op en in het water, bij nood verwittig deze overheidsinstantie onmiddelijk. Misbruik is strafbaar.<br>
+**Artikel 13.1.5** Bij een man-over-boord-situatie, verwittig altijd de DAR op het noodnummer 113.<br>
+**Artikel 13.1.6** Er moet ten allen tijden minstens één persoon met vaarervaring aanwezig zijn op het schip. Tenzij deze aan een kade ligt.<br>
+**Artikel 13.1.7** Activeer de misthoorn bij slecht zicht bij bijvoorbeeld mist.<br>
+
+## Artikel 13.2 - Staat van het vaartuig
+*Alle overtredingen van deze categorie worden omschreven als artikel 13.2*<br>
+**Artikel 13.2.1** Een vaartuig moet in staat zijn om te drijven.<br>
+**Artikel 13.2.2** Ieder vaartuig moet verlicht zijn met een wit boeglicht of toplicht.<br>
+**Artikel 13.2.3** Ieder vaartuig moet verlicht zijn met een wit heklicht.<br>
+**Artikel 13.2.4** Ieder vaartuig moet verlicht zijn met een groen zijlicht aan de stuurboordzijde.<br>
+**Artikel 13.2.5** Ieder vaartuig moet verlicht zijn met een rood zijlicht aan de bakboordzijde.<br>
+**Artikel 13.2.6** Ieder vaartuig moet in in het bezit zijn van een werkende marifoon al dan niet ingebouwd in het schip.<br>
+
+## Artikel 13.3 - Verkeersregels op de vaarwegen
+*Alle overtredingen van deze categorie worden omschreven als artikel 13.3*<br>
+**Artikel 13.3.1** De snelheidsbeperking in iedere haven is beperkt tot 6 km/u.<br>
+**Artikel 13.3.2** Grote schepen hebben voorrang op kleine schepen.<br>
+**Artikel 13.3.3** Een schip dat priorair vaart heeft ten alle tijden voorrang.<br>
+**Artikel 13.3.4** Golfslag maken in een haven is niet toegestaan.<br>
+**Artikel 13.3.5** Vaar ten alle tijden zoveel mogelijk aan stuurboordwal.<br>
+**Artikel 13.3.6** Blijf tussen de betonning bij havens.<br>
+**Artikel 13.3.7** Vaar niet in zwemzones.<br>
+**Artikel 13.3.8** Vaar niet in ondiepe wateren of rioleringen.<br>
+
+## Artikel 13.4 - Staat van de bestuurder
+*Alle overtredingen van deze categorie worden omschreven als artikel 13.4*<br>
+**Artikel 13.4.1** Voor het vaartuig uitvaart dient er één kapitein aangewezen te worden.<br>
+**Artikel 13.4.2** De kapitein is verantwoordelijk voor het schip en de bemanning.<br>
+**Artikel 13.4.3** De kapitein, stuurman en bemanningsleden dienen nuchter te zijn tijdens het varen.<br>
+**Artikel 13.4.4** De kapitein, stuurman dient een geldig vaarbrevet te hebben.<br>
+**Artikel 13.4.5** De kapitein, stuurman dient medisch en psychisch in orde te zijn voor het besturen van een vaartuig.<br>
+
+# Artikel 14 - Wetten betrekking tot luchtverkeer
+
+## Artikel 14.1 - Veiligheidsregels betrekking tot het luchtverkeer
+*Alle overtredingen van deze categorie worden omschreven als artikel 14.1*<br>
+**Artikel 14.1.1**
+
+## Artikel 14.2 - Staat van het vliegtuig, helikopter
+*Alle overtredingen van deze categorie worden omschreven als artikel 14.2*<br>
+**Artikel 14.2.1**
+
+## Artikel 14.3 - Staat van de bestuurder
+*Alle overtredingen van deze categorie worden omschreven als artikel 14.3*<br>
+**Artikel 14.3.1**
