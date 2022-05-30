@@ -109,3 +109,36 @@ Indien deze grondwet niet wordt gevolgd door één of meerdere personen, zal er 
 >> Draag dus geen kogelwerend vest als schoonmaker, holsters rond je been of een masker tijdens het wandelen.
 >> Dit komt in de server maatschappij over als afschrikwekkend.
 
+## Artikel 2.3 - Voice Chat
+
+> **Artikel 2.3.1** Roleplay gerichtheid
+>> Alles wat in de voicechat wordt gezegd kan in roleplay verwerkt worden.
+>>Ja kan bijvoorbeeld een bekeuring krijgen voor geleuidsoverlast. 
+
+> **Artikel 2.3.2** Muziek
+>> Muziek afspelen is alleen toegestaan wanneer dit in roleplay mogelijk is.
+>> Denk hierbij aan een radio animatie. Zingen mag.
+
+> **Artikel 2.3.3** Soundboard
+>> Een soundboard is enkel toegestaan wanneer dit in roleplay past.
+>> Denk hierbij aan het gebruik van een passende emote / animatie.
+
+> **Artikel 2.3.4** Opnemen en streamen
+>> Opneme n en stremen is toegestaan op de FiveM server. Hou hier
+>> als speler rekening  mee. Stream-snipen geldt als meta-gaming.
+
+> **Artikel 2.3.5** Voicechanger
+>> het gebruik van een voicechanger is niet toegestaan.
+>> Je mag natuurlijk wel zelf een stemmetje opzetten of met een accent praten.
+
+## Artikel 2.4 - Gebruik van noodnummers
+
+> **Artikel 2.4.1** Reddingsdiensten
+>> De nooddiensten zoals brandweer, ambulance, redding te zee, ...
+>> Bel je met het command /113 (tekst)
+
+> **Artikel 2.4.2** Veiligheidsdiensten
+>> Nooddiensten zoals de politie, bel je met het command /112 (tekst)
+
+> **Artikel 2.4.3** Reparatiediensten
+>> Voor diensten betrekking tot weginfrastructuur en reparatie aan een voertuig. Bel je met het command /114 (tekst)
