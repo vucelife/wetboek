@@ -17,7 +17,7 @@ De wet is gelijk voor iedereen. De wet moet ons allemaal eerlijk behandelen.<br>
 **8) De wet beschermt jouw mensenrechten**<br>
 We kunnen allemaal een beroep doen op het rechtselsel wanneer we niet eerlijk behandeld worden.<br>
 **9) Geen oneerlijke gevangenschap**<br>
-Niemand heeft het recht ons zonder een goede reden te arresteren engevangen te houden.<br>
+Niemand heeft het recht ons zonder een goede reden te arresteren en gevangen te houden.<br>
 **10) Het recht op een proces**<br>
 Als we berecht worden, moet dat in het openbaar gebeuren. De mensen die ons berechten mogen zich niet door anderen laten beïnvloeden omtrent de rechtsgang.<br>
 **11) We zijn onschuldig tenzij schuldig bewezen**<br>
@@ -61,17 +61,15 @@ We hebben een plicht naar andere mensen en moeten hun rechten en vrijheden ook b
 **30) Niemand kan jouw mensenrechten van je afnemen**<br>
 
 
-# Rechten van een gevangenen
+# Rechten van een gevangene
 *Deze rechten tellen enkel bij iemand die in gevangenschap is genomen.*<br>
 **1) Recht op eten en drinken**<br>
-Een gevangene heeft recht op twee water en 2 brood.<br>
+Een gevangene heeft recht op twee water en twee brood indien deze hiernaar vraagt.<br>
 **2) Recht op telefoon**<br>
-Een gevangene heeft recht om één keer te bellen met zijn/haar eigen telefoon.<br> 
+Een gevangene heeft recht om één keer te bellen met zijn/haar eigen telefoon indien deze hiernaar vraagt.<br> 
 **3) Recht op wetendheid**<br>
-Een gevangene heet het recht te weten waarvoor hij/zij is gearresteerd is en wat de volgende stappen gaan zijn.<br>
+Een gevangene heeft het recht te weten waarvoor hij/zij is gearresteerd en wat de volgende stappen gaan zijn.<br>
 **4) Recht op een advocaat**<br>
 Een gevangene heeft recht op een advocaat, indien deze aanwezig is.<br>
-**5) Recht op een tolk**<br>
-Een gevangene heeft het recht op een tolk indien hij/zij de Nederlandse taal niet machtig is.<br>
-**6) Recht op medische zorg**<br>
-Een gevangene heeft het recht op medische zorg.<br>
+**5) Recht op medische zorg**<br>
+Een gevangene heeft het recht op medische zorg indien deze hiernaar vraagt.<br>
